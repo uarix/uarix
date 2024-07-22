@@ -2,7 +2,7 @@
 
 🎓 Aspiring Electronic Engineer | 📍 Beijing, China
 
-> Currently majoring in Electronic Information Engineering at `<abbr title="Beijing University of Posts and Telecommunications">`BUPT`</abbr>`.
+> Currently majoring in Electronic Information Engineering at <abbr title="Beijing University of Posts and Telecommunications">BUPT</abbr>.
 
 ### 👀 Interests
 
