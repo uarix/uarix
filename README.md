@@ -26,6 +26,7 @@
 - Email: Github.envoy692@passinbox.com  (Suggested)
 - Telegram: Redacted For Privacy (🙌)
 - WhatsApp: Redacted for Privacy
+>[🔑 Get GPG Public Key Here](https://github.com/uarix.gpg)
 
 ### 🌐 Digital home
 
