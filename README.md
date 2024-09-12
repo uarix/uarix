@@ -23,7 +23,7 @@
 
 ### 📫 How to reach me
 
-- Email: Github.envoy692@passinbox.com  (Suggested)
+- Email: Github.envoy692#passinbox.com  (Suggested)
 - Telegram: Redacted For Privacy (🙌)
 - WhatsApp: Redacted for Privacy
 >🔑 [Get My GPG Public Key Here](https://github.com/uarix.gpg)
