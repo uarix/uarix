@@ -23,14 +23,14 @@
 
 ### 📫 How to reach me
 
-- Email: Github.envoy692@passinbox.com  (Suggested)
-- Telegram: Redacted For Privacy (🙌)
-- WhatsApp: Redacted for Privacy
+- Email: [Github.envoy692@passinbox.com](mailto:Github.envoy692@passinbox.com)  (Suggested)
+
 >🔑 [Get My GPG Public Key Here](https://github.com/uarix.gpg)
 
-### 🌐 Digital home
+### 🌐 Digital homes
 
 - [GND.VIN](https://GND.VIN/)
+- [0w0.Pro](https://0w0.Pro/)
 
 ### ⚡ Fun
 
