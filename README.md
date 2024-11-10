@@ -12,7 +12,9 @@
 
 ### 🌱 Currently learning
 
-- Frontend technologies
+- [x] Frontend technologies
+- [ ] Rust ! 
+- [ ] Embedded hardware coding  
 - How to turn coffee into code ☕️
 
 ### 💼 Skills
