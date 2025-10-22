@@ -29,11 +29,6 @@
 
 >🔑 [Get My GPG Public Key Here](https://github.com/uarix.gpg)
 
-### 🌐 Digital homes
-
-- [GND.VIN](https://GND.VIN/)
-- [0w0.Pro](https://0w0.Pro/)
-
 ### ⚡ Fun
 
 - My favorite book is "What If?" by Randall Munroe
