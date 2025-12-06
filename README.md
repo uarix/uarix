@@ -1,36 +1,67 @@
 ## 👋 *Hi, there! I'm Quarix*
 
-🎓 Aspiring Electronic Engineer | 📍 Beijing, China
+📍 Beijing, China | 🎓 Junior @ BUPT | Electronic Science and Technology  
 
-> Currently majoring in Electronic Information Engineering at <abbr title="Beijing University of Posts and Telecommunications">BUPT</abbr>.
+🤖 AI + Hardware Enthusiast | Embodied Intelligence
 
-### 👀 Interests
+> *Building intelligent systems where algorithms meet silicon*
 
-- Tinkering with electronic hardware
-- CTF challenges & cracking puzzles
-- Exploring the digital frontier
+---
 
-### 🌱 Currently learning
+## 🔬 What I'm Working On
 
-- [x] Frontend technologies
-- [ ] Rust ! 
-- [ ] Embedded hardware coding  
-- How to turn coffee into code ☕️
+Bridging the gap between AI capabilities and hardware design. Currently developing an **AI-powered EDA chip selection tool** that helps engineers navigate the complex landscape of component selection and supply chains. Successfully prototyped and validated at AdventureX Hackathon.
 
-### 💼 Skills
+---
 
-- Deployment ninja 🥷
-- Fluent in Chinese & English
-- Time zone juggler
+## 🏆 Notable Achievements
 
-### 📫 How to reach me
+**Competition Highlights:**
+- 🥇 **National Gold Award** – China International College Students' Innovation Competition (2024)
+- 🥇 **1st Place, Beijing Region** – TI Cup National Undergraduate Electronic Design Contest (2025)
+- 🥇 **National First Prize** – Blue Bridge Cup EDA Design Competition (2025)
+- 🥈 **National Second Prize** – China Service Outsourcing Innovation Competition (2025)
 
-- Email: [Github.envoy692@passinbox.com](mailto:Github.envoy692@passinbox.com)  (Suggested)
+---
 
->🔑 [Get My GPG Public Key Here](https://github.com/uarix.gpg)
+## 💻 Tech Stack
 
-### ⚡ Fun
+**Hardware & Embedded:**  
+`STM32` `FPGA` `Circuit Design` `PCB Layout` 
 
-- My favorite book is "What If?" by Randall Munroe
+**AI & Software:**  
+`Python` `PyTorch` `Computer Vision` `LLMs`
 
-> 💡 resistance is futile... unless you're building a circuit
+**Development:**  
+`C/C++` `JavaScript` `React` `Git` `Docker` `Serverless`
+
+**Side Interests:**  
+`Web Security` `Reverse Engineering` `CTF`
+
+---
+
+## 🌱 Currently Learning
+
+- [ ] Rust for embedded systems
+- [ ] Reinforcement learning for robotics
+- [x] Full-stack development
+- [x] Modern EDA toolchains
+
+---
+
+## 🎯 What I'm Looking For
+
+**Seeking opportunities in:**
+- 🔍 **Research positions** in embodied AI / hardware-AI integration
+- 💼 **Internships** at companies working on intelligent hardware systems
+- 🤝 **Collaborations** on open-source hardware/AI projects
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: Github.envoy692@passinbox.com
+- 🔑 GPG: [Public Key](https://github.com/uarix.gpg)
+- 💬 Open to discussing: Research collaboration, project ideas, or just chatting about hardware hacking
+
+> *"The best way to predict the future is to invent it."* – Alan Kay
