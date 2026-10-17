@@ -1,6 +1,6 @@
 ## 👋 *Hi, there! I'm Quarix*
 
-📍 Beijing, China | 🎓 Junior @ BUPT
+📍 Beijing, China | 🎓 Junior @ *
 
 ---
 
